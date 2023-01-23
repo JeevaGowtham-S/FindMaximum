@@ -62,7 +62,7 @@ def max_marks(list1):
 
 ## Output:
 ![output](./img/1st.png)
-![output](./img/2nd.pngg) 
+![output](./img/2nd.png) 
 ![output](./img/3rd.png)  
 
 ## Result:
